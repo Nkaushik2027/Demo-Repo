@@ -1,3 +1,4 @@
 Line from Local
 Line from teammate
 Line From VS Code
+Line From Git
